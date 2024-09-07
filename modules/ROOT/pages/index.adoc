@@ -1,6 +1,6 @@
 == Beitragsordnung der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf
 
-include::
+include::util::disclaimer.adoc[]
 
 === § 1 Erhebung von Beiträgen
 
