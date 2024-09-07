@@ -3,7 +3,7 @@ on:
   push:
     branches: [ 'v*' ]
   pull_request:
-    branches: [ "'v*' ]
+    branches: [ 'v*' ]
   workflow_dispatch:
   
 jobs:
